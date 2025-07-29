@@ -1,3 +1,7 @@
+## 👋 Hey, I'm Sahil Sagvekar
+
+🚀 Full Stack Developer | MERN Stack Specialist  
+🌐 Passionate about building scalable web apps, clean UIs, and open-source tools.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sahil-sagvekar/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Sahilsagvekar23) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilsagvekar230@gmail.com) 
